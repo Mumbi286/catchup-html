@@ -30,3 +30,22 @@ header {
   text-align: center;
   padding: 2rem;
 }
+.features {
+  background-color: white;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+div{
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: lightcyan;
+}
