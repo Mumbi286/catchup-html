@@ -1,5 +1,10 @@
 body {
   margin: 0;
+  background-color: #f9fafb;
+  height: 1200px;
+  border: 2px solid black;
+
+
 }
 
 header {
@@ -32,8 +37,7 @@ header {
 }
 .features {
   background-color: white;
-  display: grid;
-  grid-template-columns: auto auto auto;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   
